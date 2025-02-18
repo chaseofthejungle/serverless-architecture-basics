@@ -5,6 +5,7 @@
 
 1. [Essential Components of Serverless DevOps Workflow](#components)
 2. [Examples of Popular Serverless Platforms](#platforms)
+3. [Supplemental Resource](#supplemental)
    
 <hr />
   
@@ -26,4 +27,10 @@
   
 <hr />
   
-TODO: Add details for both sections.
+## 3. <a name="supplemental">Supplemental Resource</a>
+  
+[Intro to CI/CD Pipelines Overview Guide](https://github.com/chaseofthejungle/intro-to-ci-cd-pipelines)
+  
+<hr />
+  
+TODO: Add details for sections 1 and 2.
