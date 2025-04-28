@@ -29,8 +29,9 @@
   
 ## 3. <a name="supplemental">Supplemental Resource</a>
   
-[Intro to CI/CD Pipelines Overview Guide](https://github.com/chaseofthejungle/intro-to-ci-cd-pipelines)
+* *[Intro to CI/CD Pipelines Overview Guide](https://github.com/chaseofthejungle/intro-to-ci-cd-pipelines)*
   
 <hr />
   
-TODO: Add details for sections 1 and 2.
+TODO #1: Add details for sections 1 and 2.  
+TODO #2: Add 'Challenges and Solutions' section.
