@@ -5,7 +5,7 @@
 
 1. [Essential Components of Serverless DevOps Workflow](#components)
 2. [Examples of Popular Serverless Platforms](#platforms)
-3. [Supplemental Resource](#supplemental)
+3. [Supplemental Resources](#supplemental)
    
 <hr />
   
@@ -27,8 +27,9 @@
   
 <hr />
   
-## 3. <a name="supplemental">Supplemental Resource</a>
-  
+## 3. <a name="supplemental">Supplemental Resources</a>
+
+* *[AWS Serverless Computing](https://aws.amazon.com/serverless/)*
 * *[Intro to CI/CD Pipelines Overview Guide](https://github.com/chaseofthejungle/intro-to-ci-cd-pipelines)*
   
 <hr />
