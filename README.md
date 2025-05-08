@@ -5,7 +5,8 @@
 
 1. [Essential Components of Serverless DevOps Workflow](#components)
 2. [Examples of Popular Serverless Platforms](#platforms)
-3. [Supplemental Resources](#supplemental)
+3. [Challenges and Solutions](#cands)
+4. [Supplemental Resources](#supplemental)
    
 <hr />
   
@@ -27,12 +28,22 @@
   
 <hr />
   
-## 3. <a name="supplemental">Supplemental Resources</a>
+## 3. <a name="cands">Challenges and Solutions</a>
+  
+* **Cold Start Delays**
+  + If idle functions take a while to start back up after being invoked, *employ trigger schedules* and otherwise keep code optimal.
+* **Monitoring**
+  + Enhance visibiity of internal function mechanisms by utilizing appropriate tools (e.g., AWS X-Ray, Datadog, New Relic).
+* **Security**
+  + Employ granular access control mechanisms, encrypt data, and *fix permissions and event trigger misconfigurations* by using appropriate tools (e.g., AWS IAM).
+* **Testing**
+  + Simplify testing of local serverless functionality by using appropriate *tools/utilities* (e.g., AWS SAM CLI, LocalStack, Serverless Framework).
+* **Vendor Lock-In**
+  + Increase portability/compatibility of serverless platforms through code modifications and *migrating to open-source/multi-cloud alternatives*.
+
+<hr />
+  
+## 4. <a name="supplemental">Supplemental Resources</a>
 
 * *[AWS Serverless Computing](https://aws.amazon.com/serverless/)*
 * *[Intro to CI/CD Pipelines Overview Guide](https://github.com/chaseofthejungle/intro-to-ci-cd-pipelines)*
-  
-<hr />
-  
-TODO #1: Add details for sections 1 and 2.  
-TODO #2: Add 'Challenges and Solutions' section.
