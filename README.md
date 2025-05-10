@@ -4,7 +4,7 @@
 #### Table of Contents
 
 1. [Essential Components of Serverless DevOps Workflow](#components)
-2. [Examples of Popular Serverless Platforms](#platforms)
+2. [Characteristics and Examples of Popular Serverless Platforms](#platforms)
 3. [Challenges and Solutions](#cands)
 4. [Supplemental Resources](#supplemental)
    
@@ -19,7 +19,16 @@
   
 <hr />
   
-## 2. <a name="platforms">Examples of Popular Serverless Platforms</a>
+## 2. <a name="platforms">Characteristics and Examples of Popular Serverless Platforms</a>
+
+**Characteristics of Serverless Platforms include:**
+  
+* *Event Handling:* Functions (e.g., API calls, database triggers) handle events.
+* *High Scalability:* Load balancing is realized with automated scaling.
+* *No Need for Server Management:* Infrastructures are abstracted from users.
+* *Usage-based Billing:* Cost are connected to resources used.
+  
+**Examples of Popular Serverless Platforms include:**
   
 * AWS Amplify Hosting, AWS Fargate, and AWS Lamba
 * Google Cloud Functions
