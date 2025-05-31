@@ -56,3 +56,4 @@
 
 * *[AWS Serverless Computing](https://aws.amazon.com/serverless/)*
 * *[Intro to CI/CD Pipelines Overview Guide](https://github.com/chaseofthejungle/intro-to-ci-cd-pipelines)*
+* *[Serverless on Azure](https://azure.microsoft.com/en-us/solutions/serverless)*
